@@ -100,3 +100,19 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#load-image{
+    width:"15%";
+}
+
+#input-image{
+    width:"61%";
+}
+
+#title-colour{
+    width:"80%";
+}
+
+#width-20{
+    wide:"20%";
+}
